@@ -1,0 +1,15 @@
+F:\C#\Student Grade Assignment\bin\Debug\net6.0\Student Grade Assignment.exe
+F:\C#\Student Grade Assignment\bin\Debug\net6.0\Student Grade Assignment.deps.json
+F:\C#\Student Grade Assignment\bin\Debug\net6.0\Student Grade Assignment.runtimeconfig.json
+F:\C#\Student Grade Assignment\bin\Debug\net6.0\Student Grade Assignment.dll
+F:\C#\Student Grade Assignment\bin\Debug\net6.0\Student Grade Assignment.pdb
+F:\C#\Student Grade Assignment\obj\Debug\net6.0\Student Grade Assignment.csproj.AssemblyReference.cache
+F:\C#\Student Grade Assignment\obj\Debug\net6.0\Student Grade Assignment.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Student Grade Assignment\obj\Debug\net6.0\Student Grade Assignment.AssemblyInfoInputs.cache
+F:\C#\Student Grade Assignment\obj\Debug\net6.0\Student Grade Assignment.AssemblyInfo.cs
+F:\C#\Student Grade Assignment\obj\Debug\net6.0\Student Grade Assignment.csproj.CoreCompileInputs.cache
+F:\C#\Student Grade Assignment\obj\Debug\net6.0\Student Grade Assignment.dll
+F:\C#\Student Grade Assignment\obj\Debug\net6.0\refint\Student Grade Assignment.dll
+F:\C#\Student Grade Assignment\obj\Debug\net6.0\Student Grade Assignment.pdb
+F:\C#\Student Grade Assignment\obj\Debug\net6.0\Student Grade Assignment.genruntimeconfig.cache
+F:\C#\Student Grade Assignment\obj\Debug\net6.0\ref\Student Grade Assignment.dll
